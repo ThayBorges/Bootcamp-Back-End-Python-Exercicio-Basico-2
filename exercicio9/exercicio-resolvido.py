@@ -4,6 +4,7 @@ exercicio 9 do Desafio 2 - O programa deve calcular e apresentar a quantidade de
 ímpares inseridos. O processo de leitura deve ser encerrado quando o usuário informar o valor zero. 
 Certifique-se de incluir validações para garantir que apenas números positivos sejam considerados 
 na contagem e cálculos.
+
 '''
 
 import os
